@@ -1,6 +1,6 @@
 # SegNet Image Segmentation
 
-This repository contains a complete implementation of a SegNet model for image segmentation tasks. SegNet is a deep learning architecture specifically designed for semantic segmentation, capable of classifying each pixel in an image.
+This repository provides a full implementation of the SegNet model for image segmentation tasks. SegNet is a deep learning architecture tailored for semantic segmentation, allowing for the classification of each pixel within an image. In this project, the objective is to predict the mask for the head of a fetus, with the annotation masks serving as labels in the dataset. I have trained several classical segmentation models, including SegNet and UNet, for mask prediction.
 
 
 ## Features
